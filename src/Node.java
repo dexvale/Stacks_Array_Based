@@ -10,6 +10,7 @@ public class Node {
 }
 
 class LinkedList_Stack{
+    //top -> null
     Node top;
 
     //Adds value on top and increases top
